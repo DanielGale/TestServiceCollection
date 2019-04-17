@@ -1,0 +1,14 @@
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.csprojAssemblyReference.cache
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.csproj.CoreCompileInputs.cache
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.RazorAssemblyInfo.cache
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.RazorAssemblyInfo.cs
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.AssemblyInfoInputs.cache
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.AssemblyInfo.cs
+C:\source\aspnetcoreapps\TestServiceCollection\bin\Debug\netcoreapp2.1\TestServiceCollection.deps.json
+C:\source\aspnetcoreapps\TestServiceCollection\bin\Debug\netcoreapp2.1\TestServiceCollection.runtimeconfig.json
+C:\source\aspnetcoreapps\TestServiceCollection\bin\Debug\netcoreapp2.1\TestServiceCollection.runtimeconfig.dev.json
+C:\source\aspnetcoreapps\TestServiceCollection\bin\Debug\netcoreapp2.1\TestServiceCollection.dll
+C:\source\aspnetcoreapps\TestServiceCollection\bin\Debug\netcoreapp2.1\TestServiceCollection.pdb
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.RazorTargetAssemblyInfo.cache
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.dll
+C:\source\aspnetcoreapps\TestServiceCollection\obj\Debug\netcoreapp2.1\TestServiceCollection.pdb
